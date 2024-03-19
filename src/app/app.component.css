@@ -1,0 +1,23 @@
+p {
+  font-family: Lato;
+}
+
+.search-field {
+  width: 50%;
+  height: 29px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  padding-left: 11px;
+}
+
+table {
+  width: 60%;
+}
+
+tbody {
+  text-align: center;
+}
+
+tr {
+  height: 10px;
+}
